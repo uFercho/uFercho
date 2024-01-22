@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2> Hi There, I'm Nelson! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+Currently, I focus on putting into practice my accumulated skills and knowledge 🛠️.
 
-<!--
-**uFercho/uFercho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal is to contribute significantly to any projects I join 🤝.
 
-Here are some ideas to get you started:
+I am always eager to learn new technologies that enhance my productivity and efficiency, consistently seeking to strengthen my skills 🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const nelsonSuarez = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Angular, Rxjs, Ngrx, Node, Nestjs],
+  architecture: ["microservices", "event-driven"]
+}
+```
